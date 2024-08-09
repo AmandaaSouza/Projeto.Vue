@@ -6,17 +6,17 @@ ola
 <br>
 <TabelasDiversos/>
 <br>
-<Outro/>
+
 </template>
 
 <script>
 import ImagemPrincipal from '@/components/ImagensDiversas.vue'
 import VideoUnico from './VideoUnico.vue'
-import Outro from './Outro.vue'
+import TabelaDiversos from './TabelaDiversos.vue';
 export default {
     name: 'PaginaPrincipal',
     components: {
-        ImagemPrincipal, VideoUnico, Outro
+        ImagemPrincipal, VideoUnico, TabelaDiversos
     },
 }
 </script>

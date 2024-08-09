@@ -1,4 +1,5 @@
 <template>
+
 <table>
         
         <thead>
@@ -12,20 +13,20 @@
             <tr>
                 <td data-label="Item">1</td>
                 <td data-label="Personagem">Monster High</td>
-                <td> <img src=" Fotos/monster.jpg" alt="" style="min-width: 50%;"></td>
+                <td> <img src="@/assets/monster.jpg" alt="" style="min-width: 50%;"></td>
             </tr>
             <tr>
                 <td data-label="Item">2</td>
                 <td data-label="Personagem ">Ben10</td>
                 <td>
-                    <img src="Fotos/ben.jpg" alt="" style="min-width: 50%;" >
+                    <img src="@/assets/ben.jpg" alt="" style="min-width: 50%;" >
                 </td>
             </tr>
             
             <tr>
                 <td data-label="Item">3</td>
                 <td data-label="Personagem ">Max Steel</td>
-                <td ><img src="Fotos/Max.png" alt="" style="max-width: 50%;">
+                <td ><img src="@/assets/Max.png" alt="" style="max-width: 50%;">
                 </td>
             </tr>
         </tbody>

@@ -1,4 +1,6 @@
+
 <template>
+  
     <h1 class="p">Imagens</h1>
       <p class="p">Essas imagens representam personagens de desenho animado </p>
         <div class="containerImagem">

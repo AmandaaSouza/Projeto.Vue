@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/PaginaPrincipal.vue'
+import HelloWorld from './components/MenuPrincipal.vue'
 
 export default {
   name: 'App',
